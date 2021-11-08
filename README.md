@@ -5,10 +5,8 @@ Random image generator inspired by works of Piet Mondriaan. Works on Javascript 
 ## Use
 `mondriaan(canvas, x, y, width, height);`  
 where:
-- `canvas`
-- `x`
-- `y`
-- `width`
-- `height`
-
-
+- `canvas`: canvas element
+- `x`: X coordinate of start point (top left);
+- `y`: Y coordinate of start point (top left);
+- `width`: width of the image to be generated;
+- `height`: width of the image to be generated.
